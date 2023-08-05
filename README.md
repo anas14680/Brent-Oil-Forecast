@@ -7,4 +7,5 @@ Brent Oil Prices international benchmark for crude oil prices and predicting the
 - `Mitigate Financial Risk`
 - `Improved Investment Desicions`
 
-However, achieving this task is difficult due to its high volatitlity and the effect of macroeconomic variables. This analysis aims to predict the future oil prices while taking into account this uncertainity. 
+However, achieving this task is difficult due to its high volatitlity and the effect of macroeconomic variables. This analysis aims to predict the future oil prices while taking into account this uncertainity. We do this by creating a multivariate time series `deep learning` model.
+
